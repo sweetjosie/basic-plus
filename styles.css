@@ -21,6 +21,10 @@ li {
   font-weight: 100;
   list-style: none;
 }
+
+p {
+  text-align: center;
+}
 .border {
   border: 1px solid #7c7c7c;
   padding: 20px;
